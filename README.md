@@ -11,6 +11,8 @@ Input: Users can input a cipher text message.
 Shift Value: Specify the same shift value used for encryption.
 Action: Clicking the "Decrypt" button performs decryption on the input text using the same shift cipher.
 
+![Screenshot (522)](https://github.com/tharushikaDyayinna/Encrypt-Decrypt/assets/102175958/1878b993-caf0-44fd-b65c-86b3e73304ce)
+
 ## How to Run:
 Prerequisites:
 Java JDK (version 21): Ensure that you have Java installed on your machine.
