@@ -13,6 +13,8 @@ Action: Clicking the "Decrypt" button performs decryption on the input text usin
 
 ![Screenshot (522)](https://github.com/tharushikaDyayinna/Encrypt-Decrypt/assets/102175958/1878b993-caf0-44fd-b65c-86b3e73304ce)
 
+![Screenshot (523)](https://github.com/tharushikaDyayinna/Encrypt-Decrypt/assets/102175958/55b74fb6-3e8d-49fa-a60d-4c80928b93d0)
+
 ## How to Run:
 Prerequisites:
 Java JDK (version 21): Ensure that you have Java installed on your machine.
