@@ -13,8 +13,8 @@ Action: Clicking the "Decrypt" button performs decryption on the input text usin
 
 ## How to Run:
 Prerequisites:
-Java JDK (version X.X.X): Ensure that you have Java installed on your machine.
-JavaFX SDK (version Y.Y.Y): JavaFX is used for building the graphical user interface.
+Java JDK (version 21): Ensure that you have Java installed on your machine.
+JavaFX SDK (version 21): JavaFX is used for building the graphical user interface.
 
 ## Build and Run:
 
